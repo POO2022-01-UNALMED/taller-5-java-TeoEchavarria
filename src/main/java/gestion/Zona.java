@@ -18,7 +18,8 @@ public class Zona {
 		Zoo = zoo;
 	}
 	
-	//Getters & Setters	//-----G E T T E R S   A N D   S E T T E R S-----	public String getNombre() {
+	//-----G E T T E R S   A N D   S E T T E R S-----
+	public String getNombre() {
 		return nombre;
 	}
 
